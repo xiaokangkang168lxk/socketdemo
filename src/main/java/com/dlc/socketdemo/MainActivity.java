@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
                     socket2.closeSocket();
                 } catch (IOException e) {
                     e.printStackTrace();
+
                 }
 //                socket1.send("3344");
             }
